@@ -59,3 +59,6 @@ For training and evaluating the XGBoost model, run:
 cd semantic_segmentation\XGBoost
 python train_eval.py
 ```
+
+### Data Visualization
+The codes to visualize the data are stored in the visualization folder. To inspect any patch or shapefile from the dataset, place the necessary patch or shapefile in the folder and change the file names in the python codes accordingly.
